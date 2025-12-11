@@ -3,4 +3,4 @@ add_conda_paths.bat
 chicago.csv
 new_york_city.csv
 washington.csv
-git-commands-documentation.docx
+*.docx
