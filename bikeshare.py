@@ -201,7 +201,7 @@ def main():
     while True:
         # Ask user for city, month and day to filter
         city, month, day = get_filters()
-        # Load data accoring to filter
+        # Load data according to filter
         df = load_data(city, month, day)
         #print(df.head())
         #print(df.describe())
