@@ -14,5 +14,5 @@ Describe what your project is about and what it does
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The repo is forked from this [udacity template repository](https://github.com/udacity/pdsnd_github).
 
