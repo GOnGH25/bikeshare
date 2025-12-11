@@ -181,6 +181,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+
 def print_on_demand(df):
     """
     Print raw data of DataFrame on user request.
@@ -195,6 +196,7 @@ def print_on_demand(df):
         i += 5
         if do_print.lower() != 'yes':
             break
+
 
 def main():
     while True:
