@@ -201,8 +201,6 @@ def main():
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
-        #print(df.head())
-        #print(df.describe())
         
         print_on_demand(df)
 
