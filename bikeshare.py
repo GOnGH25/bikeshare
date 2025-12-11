@@ -199,13 +199,17 @@ def print_on_demand(df):
 
 def main():
     while True:
+        # Ask user for city, month and day to filter
         city, month, day = get_filters()
+        # Load data accoring to filter
         df = load_data(city, month, day)
         #print(df.head())
         #print(df.describe())
         
+        # Print filtered data in chunks (on demand)
         print_on_demand(df)
 
+        # Print statistics
         time_stats(df)
         station_stats(df)
         trip_duration_stats(df)
