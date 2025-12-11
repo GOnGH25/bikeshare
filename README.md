@@ -11,7 +11,10 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+The `bikeshare.py`script uses the following trip data files (not included in the repo for file size reasons):
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 The repo is forked from this [udacity template repository](https://github.com/udacity/pdsnd_github).
