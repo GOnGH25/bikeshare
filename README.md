@@ -1,4 +1,5 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Bikeshare project
+The project aims to give you some **statistics of bikesharing services** like e.g. _most common month_, _most common day_ or _most common hour_ in different cities. You can find sample data e.g. for NYC [here](https://citibikenyc.com/system-data).
 
 ### Date created
 Include the date you created this project and README file.
