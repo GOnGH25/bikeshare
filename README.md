@@ -2,7 +2,7 @@
 The project aims to give you some **statistics of bikesharing services** like e.g. _most common month_, _most common day_ or _most common hour_ in different cities. You can find sample data e.g. for NYC [here](https://citibikenyc.com/system-data).
 
 ### Date created
-Include the date you created this project and README file.
+This project was created on 2025-12-10.
 
 ### Project Title
 Replace the Project Title
